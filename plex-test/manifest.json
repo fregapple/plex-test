@@ -12,5 +12,7 @@
     "plexauth==0.0.6",
     "plexwebsocket==0.0.14"
   ],
-  "zeroconf": ["_plexmediasvr._tcp.local."]
+  "zeroconf": ["_plexmediasvr._tcp.local."],
+  "issue_tracker": "https://github.com/fregapple/plex-test",
+  "version": "1"
 }
